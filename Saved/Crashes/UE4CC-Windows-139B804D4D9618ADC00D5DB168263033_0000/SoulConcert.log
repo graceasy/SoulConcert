@@ -1,0 +1,1489 @@
+﻿Log file open, 09/20/21 14:42:49
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: SoulConcert
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.272261
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MegascansPlugin
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin DatabaseSupport
+LogPluginManager: Mounting plugin SQLiteCore
+LogPluginManager: Mounting plugin SQLiteSupport
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 1809) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: Intel(R) HD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:097][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:112][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:112][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.20-06.42.50:112][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.20-06.42.50:112][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:112][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.20-06.42.50:113][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.20-06.42.50:114][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.20-06.42.50:114][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.09.20-06.42.50:114][  0]LogHAL: Display: Platform has ~ 8 GB [8447172608 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.09.20-06.42.50:114][  0]LogInit: Going up to parent DeviceProfile []
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.09.20-06.42.50:114][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Scalability.ini]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.09.20-06.42.50:115][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.09.20-06.42.50:116][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.09.20-06.42.50:116][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.09.20-06.42.50:116][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.09.20-06.42.50:116][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Engine.ini]
+[2021.09.20-06.42.50:116][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Config/Windows/Editor.ini]
+[2021.09.20-06.42.50:116][  0]LogInit: Computer: DESKTOP-R38J9NP
+[2021.09.20-06.42.50:116][  0]LogInit: User: Nickel
+[2021.09.20-06.42.50:116][  0]LogInit: CPU Page size=4096, Cores=4
+[2021.09.20-06.42.50:116][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.09.20-06.42.50:116][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2021.09.20-06.42.50:116][  0]LogMemory: Platform Memory Stats for Windows
+[2021.09.20-06.42.50:116][  0]LogMemory: Process Physical Memory: 136.89 MB used, 136.89 MB peak
+[2021.09.20-06.42.50:116][  0]LogMemory: Process Virtual Memory: 119.46 MB used, 119.46 MB peak
+[2021.09.20-06.42.50:116][  0]LogMemory: Physical Memory: 4718.79 MB used,  3337.06 MB free, 8055.85 MB total
+[2021.09.20-06.42.50:116][  0]LogMemory: Virtual Memory: 134209184.00 MB used,  8544.40 MB free, 134217728.00 MB total
+[2021.09.20-06.42.50:126][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.09.20-06.42.50:163][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.09.20-06.42.50:164][  0]LogInit: Using OS detected language (zh-CN).
+[2021.09.20-06.42.50:164][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.09.20-06.42.50:178][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2021.09.20-06.42.50:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2021.09.20-06.42.50:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2021.09.20-06.42.50:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2021.09.20-06.42.50:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2021.09.20-06.42.50:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2021.09.20-06.42.50:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2021.09.20-06.42.50:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2021.09.20-06.42.50:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2021.09.20-06.42.50:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2021.09.20-06.42.50:298][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2021.09.20-06.42.50:299][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2021.09.20-06.42.50:365][  0]LogInit: Setting process to per monitor DPI aware
+[2021.09.20-06.42.50:382][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.09.20-06.42.50:408][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.09.20-06.42.50:408][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.09.20-06.42.50:640][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.20-06.42.50:640][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.09.20-06.42.50:640][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.09.20-06.42.50:640][  0]LogD3D11RHI: D3D11 adapters:
+[2021.09.20-06.42.50:728][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.09.20-06.42.50:728][  0]LogD3D11RHI:       4018/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.09.20-06.42.50:765][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2021.09.20-06.42.50:765][  0]LogD3D11RHI:       128/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2021.09.20-06.42.50:769][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.09.20-06.42.50:769][  0]LogD3D11RHI:       0/0/4027 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.09.20-06.42.50:769][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.09.20-06.42.50:813][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.09.20-06.42.50:814][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2021.09.20-06.42.50:814][  0]LogWindows: EnumDisplayDevices:
+[2021.09.20-06.42.50:814][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2021.09.20-06.42.50:814][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.20-06.42.50:815][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2021.09.20-06.42.50:816][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.20-06.42.50:816][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.20-06.42.50:817][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.20-06.42.50:817][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2021.09.20-06.42.50:818][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2021.09.20-06.42.50:818][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.09.20-06.42.50:818][  0]LogD3D11RHI:   Driver Version: 452.41 (internal:27.21.14.5241, unified:452.41)
+[2021.09.20-06.42.50:818][  0]LogD3D11RHI:      Driver Date: 9-23-2020
+[2021.09.20-06.42.50:818][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.09.20-06.42.50:876][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.09.20-06.42.50:876][  0]LogD3D11RHI: Async texture creation enabled
+[2021.09.20-06.42.50:876][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.09.20-06.42.50:896][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.09.20-06.42.50:899][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.09.20-06.42.51:302][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.09.20-06.42.51:329][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.09.20-06.42.51:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.09.20-06.42.51:362][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.09.20-06.42.51:377][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.09.20-06.42.51:389][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.09.20-06.42.51:402][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.09.20-06.42.51:414][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.09.20-06.42.51:426][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.09.20-06.42.51:438][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.09.20-06.42.51:450][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.09.20-06.42.51:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.09.20-06.42.51:484][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.09.20-06.42.51:496][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.09.20-06.42.51:509][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.09.20-06.42.51:522][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.09.20-06.42.51:534][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.09.20-06.42.51:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.09.20-06.42.51:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.09.20-06.42.51:569][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.09.20-06.42.51:582][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.09.20-06.42.51:594][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.09.20-06.42.51:606][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.09.20-06.42.51:606][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.09.20-06.42.51:619][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.09.20-06.42.51:733][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.09.20-06.42.51:733][  0]LogShaderCompilers: Guid format shader working directory is 5 characters bigger than the processId version (F:/Unreal Projects/SoulConcert/SoulConcert/Intermediate/Shaders/WorkingDirectory/6068/).
+[2021.09.20-06.42.51:734][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Nickel/AppData/Local/Temp/UnrealShaderWorkingDir/715B0FCB4CAB191E41370DB9755F1780/'.
+[2021.09.20-06.42.51:734][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.09.20-06.42.51:734][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.09.20-06.42.52:554][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.09.20-06.42.52:620][  0]LogDerivedDataCache: Loaded boot cache 0.07s 97MB C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.20-06.42.52:620][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.09.20-06.42.52:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file F:/Unreal Projects/SoulConcert/SoulConcert/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.09.20-06.42.52:621][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.09.20-06.42.52:621][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file F:/Unreal Projects/SoulConcert/SoulConcert/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.20-06.42.52:621][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.09.20-06.42.52:633][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.09.20-06.42.52:633][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.09.20-06.42.52:633][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.09.20-06.42.52:649][  0]LogDerivedDataCache: Speed tests for C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.02 seconds
+[2021.09.20-06.42.52:649][  0]LogDerivedDataCache: Display: Performance to C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=256.15MBs, RandomWriteSpeed=88.06MBs. Assigned SpeedClass 'Local'
+[2021.09.20-06.42.52:649][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Nickel/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.09.20-06.42.52:649][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.09.20-06.42.52:649][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.09.20-06.42.52:705][  0]LogSlate: Using FreeType 2.10.0
+[2021.09.20-06.42.52:706][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.09.20-06.42.52:735][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2021.09.20-06.42.53:061][  0]LogInit: Selected Device Profile: [Windows]
+[2021.09.20-06.42.53:061][  0]LogInit: Active device profile: [000002C399BE8A00][000002C39986DD40 49] Windows
+[2021.09.20-06.42.53:061][  0]LogInit: Profiles: [000002C399BE8A00][000002C39986DD40 49] Windows, [000002C399B9DC00][000002C399874200 49] WindowsNoEditor, [000002C399BE8E00][000002C399878380 49] WindowsServer, [000002C399B9D500][000002C39987C500 49] WindowsClient, [000002C399BEA800][000002C399880680 49] IOS, [000002C399B9C400][000002C399884800 49] iPadAir, [000002C399BEA300][000002C399888980 49] iPadAir2, [000002C399B4AB00][000002C399890C40 49] IPadPro, [000002C399B4AC00][000002C39988CC80 49] iPadAir3, [000002C399B9CD00][000002C399894E00 49] iPadAir4, [000002C399B4AF00][000002C399898F80 49] iPadMini2, [000002C399B9C900][000002C39989D100 49] iPadMini3, [000002C399B49200][000002C3998A1280 49] iPadMini4, [000002C399B9EF00][000002C3998A5400 49] iPadMini5, [000002C399B5E400][000002C399871680 49] iPhone6, [000002C399B5E500][000002C3998A96C0 49] iPodTouch6, [000002C399B49800][000002C3998B1900 49] iPhone7, [000002C399B49700][000002C3998AD940 49] iPodTouch7, [000002C399B5FC00][000002C3998B5A80 49] iPhone5S, [000002C399B4B900][000002C3998BDC00 49] iPhone6Plus, [000002C399B5D400][000002C3998C00C0 49] iPhone6S, [000002C399B4BE00][000002C3998C4240 49] iPhone6SPlus, [000002C399B5C200][000002C3998C83C0 49] iPhone7Plus, [000002C399B48D00][000002C3998CC540 49] iPhoneSE, [000002C399B5EB00][000002C3998D06C0 49] iPhone8, [000002C399B4A500][000002C3998D4840 49] iPhone8Plus, [000002C399B5DC00][000002C3998D89C0 49] iPhoneX, [000002C399B4A200][000002C3998DCB40 49] iPhoneXS, [000002C399B5C300][000002C3998E0CC0 49] iPhoneXSMax, [000002C399B4A600][000002C3998E4E40 49] iPhoneXR, [000002C399B5FB00][000002C3998E8FC0 49] iPhone11, [000002C399B49E00][000002C3998ED140 49] iPhone11Pro, [000002C399B5F000][000002C3998F12C0 49] iPhone11ProMax, [000002C399B4B400][000002C3998F5440 49] iPhoneSE2, [000002C399B5D300][000002C3998F95C0 49] iPhone12Mini, [000002C399B48400][000002C3998B9700 49] iPhone12, [000002C399B5E800][000002C3998FD840 49] iPhone12Pro, [000002C399B49000][000002C399901980 49] iPhone12ProMax, [000002C399B5FE00][000002C399955AC0 49] iPadPro105, [000002C399B48100][000002C39995DC40 49] iPadPro129, [000002C399BEAD00][000002C399960100 49] iPadPro97, [000002C399B5C700][000002C399964280 49] iPadPro2_129, [000002C399BEA500][000002C399968400 49] iPad5, [000002C399B5F800][000002C39996C580 49] iPad6, [000002C399BEB100][000002C39A980700 49] iPad7, [000002C399B5D500][000002C39A984880 49] iPad8, [000002C399BEB800][000002C39A988A00 49] iPadPro11, [000002C399B49900][000002C39A98CB80 49] iPadPro2_11, [000002C399BEB700][000002C39A990D00 49] iPadPro3_129, [000002C399B4A400][000002C39A994E80 49] iPadPro4_129, [000002C399BE9600][000002C39A999000 49] AppleTV, [000002C399B4B600][000002C39A99D180 49] AppleTV4K, [000002C399BE9500][000002C39A9A1300 49] TVOS, [000002C399B4B100][000002C39A9A5480 49] Mac, [000002C399BE9900][000002C39A9A9600 49] MacClient, [000002C399B48F00][000002C39A9AD780 49] MacNoEditor, [000002C399BE8F00][000002C3999598C0 49] MacServer, [000002C399B48B00][000002C39A9B1A00 49] Linux, [000002C399BE8C00][000002C39A9B5B40 49] LinuxAArch64, [000002C399B49D00][000002C39A9BDCC0 49] LinuxNoEditor, [000002C399BEB600][000002C39A9C0180 49] LinuxAArch64NoEditor, [000002C399B48E00][000002C39A9C4300 49] LinuxClient, [000002C399BEAC00][000002C39A9C8480 49] LinuxAArch64Client, [000002C399B48600][000002C39A9CC600 49] LinuxServer, [000002C399BE9F00][000002C39A9D0780 49] LinuxAArch64Server, [000002C399B49A00][000002C39A9D4900 49] Android, [000002C399BEB500][000002C39A9D8A80 49] Android_Low, [000002C399B48200][000002C39A9DCC00 49] Android_Mid, [000002C399BEAE00][000002C39A9E0D80 49] Android_High, [000002C399B4A100][000002C39A9E4F00 49] Android_Default, [000002C399BEB200][000002C39A9E9080 49] Android_Adreno4xx, [000002C399B48700][000002C39A9ED200 49] Android_Adreno5xx_Low, [000002C399BE9700][000002C39A9F1380 49] Android_Adreno5xx, [000002C399B49F00][000002C39A9F5500 49] Android_Adreno6xx, [000002C399BE8600][000002C39A9F9680 49] Android_Adreno6xx_Vulkan, [000002C399B4A700][000002C39A9FD800 49] Android_Mali_T6xx, [000002C399BEB300][000002C39A9B9940 49] Android_Mali_T7xx, [000002C399B48300][000002C39AA01A80 49] Android_Mali_T8xx, [000002C399BE8700][000002C39AA05BC0 49] Android_Mali_G71, [000002C399B4A900][000002C39AA09D00 49] Android_Mali_G72, [000002C399BE9E00][000002C39AA101C0 49] Android_Mali_G72_Vulkan, [000002C399B48900][000002C39AA14340 49] Android_Mali_G76, [000002C399BE8D00][000002C39AA184C0 49] Android_Mali_G76_Vulkan, [000002C399B49B00][000002C39AA1C640 49] Android_Mali_G77, [000002C399BE9400][000002C39AA207C0 49] Android_Mali_G77_Vulkan, [000002C399B4B700][000002C39AA24940 49] Android_Vulkan_SM5, [000002C399BE8300][000002C39AA28AC0 49] Android_PowerVR_G6xxx, [000002C399B48500][000002C39AA2CC40 49] Android_PowerVR_GT7xxx, [000002C399B9FA00][000002C39AA30DC0 49] Android_PowerVR_GE8xxx, [000002C399B5C600][000002C39AA34F40 49] Android_PowerVR_GM9xxx, [000002C399B9CA00][000002C39AA390C0 49] Android_PowerVR_GM9xxx_Vulkan, [000002C399B5D000][000002C39AA3D240 49] Android_TegraK1, [000002C399B9D300][000002C39AA413C0 49] Android_Unknown_Vulkan, [000002C399B5D700][000002C39AA45540 49] Lumin, [000002C399B9E100][000002C39AA496C0 49] Lumin_Desktop, [000002C399B5CC00][000002C39AA4D840 49] HoloLens, 
+[2021.09.20-06.42.53:259][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.09.20-06.42.53:259][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.09.20-06.42.53:259][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.09.20-06.42.53:259][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.09.20-06.42.53:260][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.09.20-06.42.53:289][  0]LogNetVersion: SoulConcert 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 10634861)
+[2021.09.20-06.42.54:030][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.09.20-06.42.54:277][  0]LogPackageLocalizationCache: Processed 24 localized package path(s) for 2 prioritized culture(s) in 0.246108 seconds
+[2021.09.20-06.42.54:288][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.09.20-06.42.54:288][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.09.20-06.42.54:288][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.09.20-06.42.54:889][  0]LogPython: Using Python 3.7.7
+[2021.09.20-06.42.56:490][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.09.20-06.42.56:549][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.09.20-06.42.56:712][  0]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.42.56:712][  0]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.42.56:712][  0]LogUObjectGlobals: Warning: 寻找对象“Class /Game/FirstPersonBP/FirstPersonOverview.FirstPersonOverview_C”失败
+[2021.09.20-06.42.57:264][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.09.20-06.42.57:308][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.20-06.42.57:308][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.09.20-06.42.57:476][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.57:476][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.57:481][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.57:486][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.57:497][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.57:508][  0]LogUProjectInfo: Found projects:
+[2021.09.20-06.42.57:528][  0]LogCollectionManager: Loaded 0 collections in 0.001816 seconds
+[2021.09.20-06.42.57:578][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/Collections/' took 0.00s
+[2021.09.20-06.42.57:578][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Developers/Nickel/Collections/' took 0.00s
+[2021.09.20-06.42.57:578][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Collections/' took 0.00s
+[2021.09.20-06.42.57:578][  0]LogOcInput: OculusInput pre-init called
+[2021.09.20-06.42.57:608][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.09.20-06.42.57:608][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.09.20-06.42.58:081][  0]LogEngine: Initializing Engine...
+[2021.09.20-06.42.58:084][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.09.20-06.42.58:085][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.09.20-06.42.58:086][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.09.20-06.42.58:229][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.09.20-06.42.58:247][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.09.20-06.42.58:260][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.09.20-06.42.58:267][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.09.20-06.42.58:267][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.20-06.42.58:267][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.20-06.42.58:267][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.20-06.42.58:268][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.20-06.42.58:268][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.20-06.42.58:306][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.20-06.42.58:306][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.09.20-06.42.58:474][  0]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.09.20-06.42.58:485][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.20-06.42.58:488][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.20-06.42.58:489][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.20-06.42.58:490][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.20-06.42.58:490][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.20-06.42.58:490][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.20-06.42.58:491][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.20-06.42.58:491][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.20-06.42.58:491][  0]LogInit: FAudioDevice initialized.
+[2021.09.20-06.42.58:491][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.09.20-06.42.58:491][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.09.20-06.42.58:552][  0]LogDerivedDataCache: Saved boot cache 0.06s 77MB C:/Users/Nickel/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.09.20-06.42.58:556][  0]LogInit: Texture streaming: Enabled
+[2021.09.20-06.42.58:574][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.09.20-06.42.58:581][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.09.20-06.42.58:581][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.09.20-06.42.58:584][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.09.20-06.42.58:605][  0]LogInit: Transaction tracking system initialized
+[2021.09.20-06.42.58:638][  0]BlueprintLog: New page: 编辑器加载
+[2021.09.20-06.42.58:826][  0]LocalizationService: 本地化服务已禁用
+[2021.09.20-06.42.58:861][  0]TimingProfiler: Initialize
+[2021.09.20-06.42.58:862][  0]TimingProfiler: OnSessionChanged
+[2021.09.20-06.42.58:862][  0]LoadingProfiler: Initialize
+[2021.09.20-06.42.58:862][  0]LoadingProfiler: OnSessionChanged
+[2021.09.20-06.42.58:862][  0]NetworkingProfiler: Initialize
+[2021.09.20-06.42.58:862][  0]NetworkingProfiler: OnSessionChanged
+[2021.09.20-06.42.58:862][  0]MemoryProfiler: Initialize
+[2021.09.20-06.42.58:862][  0]MemoryProfiler: OnSessionChanged
+[2021.09.20-06.42.59:199][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.09.20-06.42.59:199][  0]LogCook: Display: Mobile HDR setting 1
+[2021.09.20-06.42.59:523][  0]LogFileCache: Scanning file cache for directory 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/' took 0.00s
+[2021.09.20-06.42.59:735][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.09.20-06.42.59:745][  0]SourceControl: 源码管理已禁用
+[2021.09.20-06.42.59:745][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.264
+[2021.09.20-06.42.59:746][  0]Cmd: MAP LOAD FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/FlyingBP/Maps/FlyingExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.20-06.42.59:746][  0]LightingResults: New page: 光照构建
+[2021.09.20-06.42.59:748][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.42.59:748][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.42.59:748][  0]MapCheck: New page: 地图检测
+[2021.09.20-06.42.59:748][  0]LightingResults: New page: 光照构建
+[2021.09.20-06.42.59:756][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.20-06.42.59:892][  0]LogMaterial: Display: Missing cached shader map for material CubeMaterial, compiling. 
+[2021.09.20-06.42.59:966][  0]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2021.09.20-06.42.59:966][  0]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 16
+[2021.09.20-06.42.59:966][  0]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.09.20-06.42.59:966][  0]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2021.09.20-06.42.59:966][  0]LogShaderCompilers: Display: Worker (5/5): shaders left to compile 1
+[2021.09.20-06.42.59:966][  0]LogTexture: Display: 正在编译纹理：DeprecatedTexture9ACF3CA346935F1EE16465B6081C6F1E（BGRA8、128X128）
+[2021.09.20-06.42.59:975][  0]LogTexture: Display: 正在编译纹理：DeprecatedTextureD0D59F1F4CA6D2F0A9F0ADBCEAE2D240（BGRA8、128X128）
+[2021.09.20-06.42.59:987][  0]LogTexture: Display: 正在编译纹理：DeprecatedTextureD7CBE4C74E12946C4581EE9BCAB13803（BGRA8、128X128）
+[2021.09.20-06.43.00:060][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'FlyingExampleMap'.
+[2021.09.20-06.43.00:061][  0]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2021.09.20-06.43.00:093][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.20-06.43.00:107][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2021.09.20-06.43.00:108][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.20-06.43.00:108][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.192毫秒。
+[2021.09.20-06.43.00:108][  0]LogFileHelpers: Loading map 'FlyingExampleMap' took 0.363
+[2021.09.20-06.43.00:111][  0]LogUnrealEdMisc: Total Editor Startup Time, took 11.630
+[2021.09.20-06.43.00:345][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.00:355][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.00:363][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.00:369][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.00:416][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0168 seconds. Added 3628 classes and 872 folders.
+[2021.09.20-06.43.00:425][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.09.20-06.43.00:427][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.20-06.43.00:427][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:427][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.20-06.43.00:427][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.09.20-06.43.00:428][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.20-06.43.00:428][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:428][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.20-06.43.00:428][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.09.20-06.43.00:429][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.09.20-06.43.00:429][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:429][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.09.20-06.43.00:429][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.20-06.43.00:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:430][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.20-06.43.00:430][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.09.20-06.43.00:431][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.20-06.43.00:431][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:431][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.20-06.43.00:431][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.09.20-06.43.00:432][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.20-06.43.00:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.20-06.43.00:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.09.20-06.43.00:433][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.20-06.43.00:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.20-06.43.00:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.09.20-06.43.00:433][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.20-06.43.00:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.20-06.43.00:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.09.20-06.43.00:434][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.09.20-06.43.00:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.09.20-06.43.00:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.09.20-06.43.00:435][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.09.20-06.43.00:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.09.20-06.43.00:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2021.09.20-06.43.00:436][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.20-06.43.00:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.20-06.43.00:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2021.09.20-06.43.00:437][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.20-06.43.00:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.20-06.43.00:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2021.09.20-06.43.00:438][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.20-06.43.00:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.20-06.43.00:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2021.09.20-06.43.00:439][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.09.20-06.43.00:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.09.20-06.43.00:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2021.09.20-06.43.00:440][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.20-06.43.00:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.20-06.43.00:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2021.09.20-06.43.00:441][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.09.20-06.43.00:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.09.20-06.43.00:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2021.09.20-06.43.00:443][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.20-06.43.00:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.20-06.43.00:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2021.09.20-06.43.00:444][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.20-06.43.00:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.20-06.43.00:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2021.09.20-06.43.00:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.20-06.43.00:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.20-06.43.00:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000055
+[2021.09.20-06.43.00:446][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.09.20-06.43.00:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.09.20-06.43.00:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000058
+[2021.09.20-06.43.00:448][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.09.20-06.43.00:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.09.20-06.43.00:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000061
+[2021.09.20-06.43.00:449][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.09.20-06.43.00:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.09.20-06.43.00:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000063
+[2021.09.20-06.43.00:450][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.09.20-06.43.00:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.09.20-06.43.00:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2021.09.20-06.43.00:451][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.09.20-06.43.00:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.09.20-06.43.00:452][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2021.09.20-06.43.00:453][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.09.20-06.43.00:453][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.09.20-06.43.00:453][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.09.20-06.43.00:453][  0]LogPakFile: OnPakFileMounted2Time == 0.000074
+[2021.09.20-06.43.00:536][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.09.20-06.43.00:543][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.09.20-06.43.00:797][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.09.20-06.43.00:801][  0]LogSlate: Took 0.002643 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.20-06.43.00:802][  0]LogSlate: Took 0.000289 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.09.20-06.43.00:814][  0]LogSlate: Took 0.006234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.09.20-06.43.00:995][  0]LogRenderer: Reallocating scene render targets to support 916x492 Format 10 NumSamples 1 (Frame:1).
+[2021.09.20-06.43.01:377][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.09.20-06.43.01:377][  0]LogLoad: (Engine Initialization) Total time: 12.90 seconds
+[2021.09.20-06.43.01:377][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.09.20-06.43.01:377][  0]LogInit: First time updating LLM stats...
+[2021.09.20-06.43.01:445][  0]LogAssetRegistry: Asset discovery search completed in 8.7110 seconds
+[2021.09.20-06.43.01:449][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000018 seconds (updated 0 objects)
+[2021.09.20-06.43.01:451][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.09.20-06.43.01:789][  2]LogSlate: Took 0.001023 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.20-06.43.08:234][365]LogTemp: Repeating last play command: 选中的视口
+[2021.09.20-06.43.08:250][365]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.20-06.43.08:252][365]PIE: New page: PIE会话：FlyingExampleMap（2021年9月20日 下午10:43:08）
+[2021.09.20-06.43.08:255][365]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.20-06.43.08:258][365]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.20-06.43.08:259][365]LogPlayLevel: Creating play world package: /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2021.09.20-06.43.08:316][365]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057300s)
+[2021.09.20-06.43.08:319][365]LogAIModule: Creating AISystem for world FlyingExampleMap
+[2021.09.20-06.43.08:320][365]LogPlayLevel: PIE: World Init took: (0.004150s)
+[2021.09.20-06.43.08:321][365]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap to /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap (0.062199s)
+[2021.09.20-06.43.08:334][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.20-06.43.08:336][365]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.20-06.43.08:336][365]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.20-06.43.08:336][365]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.20-06.43.08:339][365]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.20-06.43.08:339][365]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.20-06.43.08:347][365]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.20-06.43.08:347][365]LogAudioMixer: Display: 1: FrontRight
+[2021.09.20-06.43.08:416][365]LogAudioMixer: Display: Using Audio Device 喇叭/耳机 (Realtek High Definition Audio)
+[2021.09.20-06.43.08:416][365]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.20-06.43.08:416][365]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.20-06.43.08:417][365]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.20-06.43.08:418][365]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.20-06.43.08:418][365]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.20-06.43.08:419][365]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.20-06.43.08:474][365]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.20-06.43.08:474][365]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.20-06.43.08:474][365]LogInit: FAudioDevice initialized.
+[2021.09.20-06.43.08:474][365]LogAudio: Display: Audio Device (ID: 2) registered with world 'FlyingExampleMap'.
+[2021.09.20-06.43.08:490][365]LogLoad: Game class is 'FlyingGameMode_C'
+[2021.09.20-06.43.08:504][365]LogWorld: Bringing World /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap.FlyingExampleMap up for play (max tick rate 0) at 2021.09.20-14.43.08
+[2021.09.20-06.43.08:505][365]LogWorld: Bringing up level for play took: 0.009649
+[2021.09.20-06.43.08:506][365]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.09.20-06.43.08:519][365]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.09.20-06.43.08:521][365]PIE: 登陆的服务器
+[2021.09.20-06.43.08:525][365]PIE: PIE总开始时间：0.281秒。
+[2021.09.20-06.43.42:015][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.42:015][934]LogWorld: BeginTearingDown for /Game/FlyingBP/Maps/UEDPIE_0_FlyingExampleMap
+[2021.09.20-06.43.42:016][934]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.43.42:016][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.43.42:027][934]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.20-06.43.42:028][934]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.43.42:036][934]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.20-06.43.42:036][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.20-06.43.42:037][934]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.20-06.43.42:060][934]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.20-06.43.42:062][934]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.20-06.43.42:105][936]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.09.20-06.44.48:058][355]LogSlate: Window '插件' being destroyed
+[2021.09.20-06.44.48:065][355]LogSlate: Window '插件' being destroyed
+[2021.09.20-06.44.48:065][355]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2021.09.20-06.46.10:311][891]LogSlate: Window '教程' being destroyed
+[2021.09.20-06.46.10:406][891]LogSlate: Took 0.000226 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.20-06.46.10:427][891]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_AnimBlueprint.TutorialTPP_AnimBlueprint
+[2021.09.20-06.46.10:528][891]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2021.09.20-06.46.10:774][891]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_4:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.20-06.46.10:787][891]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2021.09.20-06.46.11:078][891]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2021.09.20-06.46.12:547][891]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.20-06.46.12:824][892]LogSlate: Took 0.001377 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.20-06.46.23:671][383]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP.TutorialTPP
+[2021.09.20-06.46.23:677][383]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.20-06.46.24:143][384]LogRenderer: Reallocating scene render targets to support 916x708 Format 10 NumSamples 1 (Frame:1).
+[2021.09.20-06.46.40:058][142]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.46.40:058][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.47.44:252][315]LogSlate: Window 'TutorialTPP_AnimBlueprint' being destroyed
+[2021.09.20-06.47.44:265][315]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.47.44:265][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.47.44:271][315]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.47.44:271][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.47.44:365][315]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.47.44:365][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.51.03:060][705]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Ground_4)
+[2021.09.20-06.51.03:896][751]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Ground_4)
+[2021.09.20-06.52.12:178][312]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2021.09.20-06.53.36:157][529]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Flying/Meshes/UFO.UFO
+[2021.09.20-06.53.37:067][529]LogRenderer: Reallocating scene render targets to support 1144x744 Format 10 NumSamples 1 (Frame:1).
+[2021.09.20-06.53.39:987][657]LogSlate: Window 'UFO' being destroyed
+[2021.09.20-06.53.40:004][657]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.53.40:004][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.53.48:122][242]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2021.09.20-06.53.49:240][242]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.20-06.53.49:497][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.20-06.53.49:530][242]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2021.09.20-06.53.49:546][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.09.20-06.53.52:379][432]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn
+[2021.09.20-06.54.25:142][940]LogSlate: Window 'FlyingPawn' being destroyed
+[2021.09.20-06.56.24:029][382]Cmd: EDIT CUT
+[2021.09.20-06.56.24:049][382]LogEditorActor: Deleted Actor: StaticMeshActor
+[2021.09.20-06.56.24:079][382]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2021.09.20-06.56.24:084][382]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2021.09.20-06.56.37:074][551]LogMetaData: Removing '/Game/Maps/FlyingExampleMap.FlyingExampleMap_C' ref from Metadata '/Game/FlyingBP/Maps/FlyingExampleMap.PackageMetaData'
+[2021.09.20-06.56.37:074][551]LogMetaData: Removing '/Game/Maps/FlyingExampleMap.SKEL_FlyingExampleMap_C' ref from Metadata '/Game/FlyingBP/Maps/FlyingExampleMap.PackageMetaData'
+[2021.09.20-06.56.37:128][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FlyingExampleMap_BuiltData" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/FlyingExampleMap_BuiltData.uasset" SILENT=true
+[2021.09.20-06.56.37:473][551]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingExampleMap_BuiltData2637301E4641D9579130FAAABBE477BA.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/FlyingExampleMap_BuiltData.uasset'
+[2021.09.20-06.56.37:476][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/FlyingExampleMap" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/FlyingExampleMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.20-06.56.37:499][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2021.09.20-06.56.37:555][551]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingExampleMapB1FA610F4412692A94AF50A259F4F2FD.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/FlyingExampleMap.umap'
+[2021.09.20-06.56.37:560][551]LogFileHelpers: Saving map 'FlyingExampleMap' took 0.085
+[2021.09.20-06.56.37:620][551]LogUObjectGlobals: Warning: 寻找对象“Object /Game/FlyingBP/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData”失败
+[2021.09.20-06.56.37:622][551]LogUObjectGlobals: Warning: 寻找对象“Object /Game/FlyingBP/Maps/FlyingExampleMap.FlyingExampleMap”失败
+[2021.09.20-06.56.37:678][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.20-06.56.37:702][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.20-06.56.37:734][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.09.20-06.56.37:756][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.FlyingPawn_C' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:ReceiveTick' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:InpAxisEvt_Thrust_K2Node_InputAxisEvent_23' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:InpAxisEvt_MoveUp_K2Node_InputAxisEvent_172' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_204' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:ReceiveHit' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C:UserConstructionScript' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.SKEL_FlyingPawn_C' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.FlyingPawn_C:ReceiveBeginPlay' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.FlyingPawn_C:ReceiveHit' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:819][551]LogMetaData: Removing '/Game/Blueprints/FlyingPawn.FlyingPawn_C:ReceiveTick' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingPawn.PackageMetaData'
+[2021.09.20-06.56.37:820][551]LogMetaData: Removing '/Game/Blueprints/FlyingGameMode.FlyingGameMode_C' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingGameMode.PackageMetaData'
+[2021.09.20-06.56.37:820][551]LogMetaData: Removing '/Game/Blueprints/FlyingGameMode.SKEL_FlyingGameMode_C:UserConstructionScript' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingGameMode.PackageMetaData'
+[2021.09.20-06.56.37:820][551]LogMetaData: Removing '/Game/Blueprints/FlyingGameMode.SKEL_FlyingGameMode_C' ref from Metadata '/Game/FlyingBP/Blueprints/FlyingGameMode.PackageMetaData'
+[2021.09.20-06.56.37:888][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlyingPawn" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset" SILENT=true
+[2021.09.20-06.56.37:935][551]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingPawn09E18BE54A99B14A7F52C48D6D3A2A81.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset'
+[2021.09.20-06.56.37:936][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlyingGameMode" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingGameMode.uasset" SILENT=true
+[2021.09.20-06.56.37:939][551]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingGameMode063F47C94E3C17B23C47B3996B07A043.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingGameMode.uasset'
+[2021.09.20-06.56.38:024][551]LogUObjectGlobals: Warning: 寻找对象“Object /Game/FlyingBP/Blueprints/FlyingPawn.FlyingPawn”失败
+[2021.09.20-06.56.38:024][551]LogUObjectGlobals: Warning: 寻找对象“Object /Game/FlyingBP/Blueprints/FlyingGameMode.FlyingGameMode”失败
+[2021.09.20-06.56.38:080][551]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.20-06.56.38:103][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.09.20-06.56.38:135][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2021.09.20-06.56.38:156][551]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.09.20-06.56.38:258][551]AssetCheck: New page: 资产保存：多个资产
+[2021.09.20-06.56.38:258][551]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints/FlyingPawn.FlyingPawn
+[2021.09.20-06.56.38:258][551]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints/FlyingGameMode.FlyingGameMode
+[2021.09.20-06.56.38:258][551]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/FlyingExampleMap_BuiltData.FlyingExampleMap_BuiltData
+[2021.09.20-06.56.38:258][551]LogContentValidation: Display: 正在验证World /Game/Maps/FlyingExampleMap.FlyingExampleMap
+[2021.09.20-06.57.03:303][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/BaseMaterial" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/BaseMaterial.uasset" SILENT=true
+[2021.09.20-06.57.03:309][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/BaseMaterialAFEE955F481D71B162AD34BFE4AFABB5.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/BaseMaterial.uasset'
+[2021.09.20-06.57.03:342][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/UFOMaterial" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/UFOMaterial.uasset" SILENT=true
+[2021.09.20-06.57.03:348][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/UFOMaterialBE8AB15746005BD2C8A707973544123D.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/UFOMaterial.uasset'
+[2021.09.20-06.57.03:380][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/UFO" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/UFO.uasset" SILENT=true
+[2021.09.20-06.57.03:431][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/UFO850E433A4FEA277CE885328BB24509F7.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/UFO.uasset'
+[2021.09.20-06.57.03:463][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Meshes/GrayMaterial" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/GrayMaterial.uasset" SILENT=true
+[2021.09.20-06.57.03:486][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/GrayMaterial1FD3315B4A3BBD4C5CD16AB21D1F5D33.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Meshes/GrayMaterial.uasset'
+[2021.09.20-06.57.03:489][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Flying/Meshes/GrayMaterial" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Flying/Meshes/GrayMaterial.uasset" SILENT=true
+[2021.09.20-06.57.03:490][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/GrayMaterial21F1D3F84D4BC53B9C774E8DC468C9A8.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Flying/Meshes/GrayMaterial.uasset'
+[2021.09.20-06.57.03:655][723]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Flying/Meshes/BaseMaterial.BaseMaterial”失败
+[2021.09.20-06.57.03:655][723]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Flying/Meshes/UFOMaterial.UFOMaterial”失败
+[2021.09.20-06.57.03:656][723]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Flying/Meshes/UFO.UFO”失败
+[2021.09.20-06.57.03:739][723]LogUObjectHash: Compacting FUObjectHashTables data took   3.75ms
+[2021.09.20-06.57.03:776][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.20-06.57.03:804][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.20-06.57.03:841][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.20-06.57.03:868][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.20-06.57.03:930][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlyingPawn" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset" SILENT=true
+[2021.09.20-06.57.03:973][723]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingPawnFD0D2BEF42EBAE39A7A8539720013743.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset'
+[2021.09.20-06.57.04:034][723]AssetCheck: New page: 资产保存：多个资产
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证Material /Game/Meshes/BaseMaterial.BaseMaterial
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/Meshes/UFOMaterial.UFOMaterial
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证StaticMesh /Game/Meshes/UFO.UFO
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints/FlyingPawn.FlyingPawn
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证MaterialInstanceConstant /Game/Meshes/GrayMaterial.GrayMaterial
+[2021.09.20-06.57.04:034][723]LogContentValidation: Display: 正在验证ObjectRedirector /Game/Flying/Meshes/GrayMaterial.GrayMaterial
+[2021.09.20-06.57.31:405][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2021.09.20-06.57.33:014][ 67]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.20-06.57.33:124][ 67]LogUObjectGlobals: Force Deleting 4 Package(s):
+	Asset Name: /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+	Asset Name: /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Name: /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+	Asset Name: /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.09.20-06.57.33:740][ 67]LogStaticMesh: 正在构建静态网格体1M_Cube_Chamfer……
+[2021.09.20-06.57.33:747][ 67]LogStaticMesh: Built static mesh [0.01s] /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+[2021.09.20-06.57.33:761][ 67]LogStaticMesh: 正在构建静态网格体TemplateFloor……
+[2021.09.20-06.57.33:762][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+[2021.09.20-06.57.33:779][ 67]LogStaticMesh: 正在构建静态网格体1M_Cube……
+[2021.09.20-06.57.33:782][ 67]LogStaticMesh: Built static mesh [0.00s] /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2021.09.20-06.57.33:925][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.09.20-06.57.33:957][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2021.09.20-06.57.33:984][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.20-06.57.34:010][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.20-06.57.34:038][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.09.20-06.57.34:063][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.20-06.57.39:209][508]LogObjectTools: Deleting 1 worlds: /Game/Maps/FlyingExampleMap.FlyingExampleMap
+[2021.09.20-06.57.39:209][508]LogObjectTools: Currently 9 active worlds: /Game/Maps/FlyingExampleMap.FlyingExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_12
+[2021.09.20-06.57.40:654][508]LogSlate: Window '无法删除关卡' being destroyed
+[2021.09.20-06.57.40:668][508]Message dialog closed, result: Ok, title: 无法删除关卡, text: 关卡打开时无法进行删除
+[2021.09.20-06.57.48:960][813]LogSlate: Window '新建关卡' being destroyed
+[2021.09.20-06.57.50:938][813]LogSlate: Window '保存内容' being destroyed
+[2021.09.20-06.57.50:946][813]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.20-06.57.50:977][813]LightingResults: New page: 光照构建
+[2021.09.20-06.57.50:977][813]LoadErrors: New page: 正在加载地图：Template_Default.umap
+[2021.09.20-06.57.50:981][813]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.57.50:982][813]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.57.50:982][813]MapCheck: New page: 地图检测
+[2021.09.20-06.57.50:983][813]LightingResults: New page: 光照构建
+[2021.09.20-06.57.51:014][813]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.20-06.57.51:021][813]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.09.20-06.57.51:047][813]LogTexture: Display: 正在编译纹理：DeprecatedTextureEB9CBE3C423008B5E8E130901E171C89（BGRA8、128X128）
+[2021.09.20-06.57.51:054][813]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled_1'.
+[2021.09.20-06.57.51:055][813]LogAIModule: Creating AISystem for world Untitled_1
+[2021.09.20-06.57.51:151][813]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.20-06.57.51:183][813]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2021.09.20-06.57.51:201][813]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.20-06.57.51:201][813]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.301毫秒。
+[2021.09.20-06.57.51:201][813]LogFileHelpers: Loading map 'Template_Default' took 0.256
+[2021.09.20-06.58.12:794][618]LogSlate: Window '将关卡另存为' being destroyed
+[2021.09.20-06.58.12:865][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.20-06.58.12:973][618]LogUObjectHash: Compacting FUObjectHashTables data took   5.18ms
+[2021.09.20-06.58.12:988][618]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMap79DC9B244DCC399193497E98375764EF.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap'
+[2021.09.20-06.58.12:996][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.09.20-06.58.13:015][618]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMap_BuiltDataDF46558F46395257F000CFB744004499.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset'
+[2021.09.20-06.58.13:023][618]LogFileHelpers: Saving map 'StartMap' took 0.209
+[2021.09.20-06.58.13:035][618]AssetCheck: New page: 资产保存：多个资产
+[2021.09.20-06.58.13:035][618]LogContentValidation: Display: 正在验证World /Game/Maps/StartMap.StartMap
+[2021.09.20-06.58.13:035][618]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.09.20-06.58.18:780][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:780][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:781][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:781][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:782][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:782][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:784][ 33]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:784][ 33]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:784][ 33]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:785][ 33]LogLinker: Warning: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:816][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:816][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/TemplateFloor.TemplateFloor 引用者 Ground
+[2021.09.20-06.58.18:817][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:817][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/TemplateFloor.TemplateFloor 引用者 Ground_2
+[2021.09.20-06.58.18:817][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:817][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/TemplateFloor.TemplateFloor 引用者 Ground_3
+[2021.09.20-06.58.18:817][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:817][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/TemplateFloor.TemplateFloor 引用者 Ground_5
+[2021.09.20-06.58.18:818][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:818][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/TemplateFloor.TemplateFloor 引用者 Ground_6
+[2021.09.20-06.58.18:818][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:818][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_10
+[2021.09.20-06.58.18:818][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:818][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_100
+[2021.09.20-06.58.18:819][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:819][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_101
+[2021.09.20-06.58.18:819][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:819][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_102
+[2021.09.20-06.58.18:819][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:819][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_103
+[2021.09.20-06.58.18:820][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:820][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_104
+[2021.09.20-06.58.18:820][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:820][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_105
+[2021.09.20-06.58.18:820][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:820][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_106
+[2021.09.20-06.58.18:821][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:821][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_108
+[2021.09.20-06.58.18:821][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:821][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_109
+[2021.09.20-06.58.18:821][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:821][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_110
+[2021.09.20-06.58.18:822][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:822][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_111
+[2021.09.20-06.58.18:822][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:822][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_112
+[2021.09.20-06.58.18:822][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:823][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_113
+[2021.09.20-06.58.18:823][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:823][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_114
+[2021.09.20-06.58.18:823][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:823][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_115
+[2021.09.20-06.58.18:823][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:824][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_116
+[2021.09.20-06.58.18:824][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:824][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_117
+[2021.09.20-06.58.18:824][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:824][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_119
+[2021.09.20-06.58.18:824][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:824][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_120
+[2021.09.20-06.58.18:825][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:825][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_121
+[2021.09.20-06.58.18:825][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:825][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_122
+[2021.09.20-06.58.18:825][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:825][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_123
+[2021.09.20-06.58.18:826][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:826][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_124
+[2021.09.20-06.58.18:826][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:826][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_125
+[2021.09.20-06.58.18:826][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:826][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_126
+[2021.09.20-06.58.18:827][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:827][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_127
+[2021.09.20-06.58.18:827][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:827][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_128
+[2021.09.20-06.58.18:827][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:827][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_129
+[2021.09.20-06.58.18:828][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:828][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_13
+[2021.09.20-06.58.18:828][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:828][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_130
+[2021.09.20-06.58.18:828][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:828][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_131
+[2021.09.20-06.58.18:829][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:829][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_132
+[2021.09.20-06.58.18:829][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:829][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_133
+[2021.09.20-06.58.18:829][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:829][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_134
+[2021.09.20-06.58.18:830][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:830][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_135
+[2021.09.20-06.58.18:830][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:830][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_136
+[2021.09.20-06.58.18:830][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:830][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_137
+[2021.09.20-06.58.18:831][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:831][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_138
+[2021.09.20-06.58.18:831][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:831][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_139
+[2021.09.20-06.58.18:832][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:832][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_140
+[2021.09.20-06.58.18:832][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:832][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_141
+[2021.09.20-06.58.18:832][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:832][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_142
+[2021.09.20-06.58.18:833][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:833][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_143
+[2021.09.20-06.58.18:833][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:833][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_144
+[2021.09.20-06.58.18:833][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:833][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_145
+[2021.09.20-06.58.18:834][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:834][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_146
+[2021.09.20-06.58.18:834][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:834][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_147
+[2021.09.20-06.58.18:834][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:834][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_148
+[2021.09.20-06.58.18:835][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:835][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_149
+[2021.09.20-06.58.18:835][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:835][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_150
+[2021.09.20-06.58.18:835][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:836][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_151
+[2021.09.20-06.58.18:836][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:836][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_152
+[2021.09.20-06.58.18:836][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:836][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_153
+[2021.09.20-06.58.18:836][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:837][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_154
+[2021.09.20-06.58.18:837][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:837][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_155
+[2021.09.20-06.58.18:837][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:837][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_156
+[2021.09.20-06.58.18:838][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:838][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_157
+[2021.09.20-06.58.18:838][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:838][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_158
+[2021.09.20-06.58.18:838][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:838][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_159
+[2021.09.20-06.58.18:839][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:839][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_160
+[2021.09.20-06.58.18:839][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:839][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_173
+[2021.09.20-06.58.18:839][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:839][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_174
+[2021.09.20-06.58.18:840][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:840][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_175
+[2021.09.20-06.58.18:840][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:840][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_176
+[2021.09.20-06.58.18:840][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:840][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_185
+[2021.09.20-06.58.18:841][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:841][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_186
+[2021.09.20-06.58.18:841][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:841][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_187
+[2021.09.20-06.58.18:841][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:841][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_196
+[2021.09.20-06.58.18:842][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:842][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_197
+[2021.09.20-06.58.18:842][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:842][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_198
+[2021.09.20-06.58.18:842][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:842][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_199
+[2021.09.20-06.58.18:843][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:843][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_200
+[2021.09.20-06.58.18:843][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:843][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_209
+[2021.09.20-06.58.18:843][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:843][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_210
+[2021.09.20-06.58.18:844][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:844][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_211
+[2021.09.20-06.58.18:844][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:844][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_212
+[2021.09.20-06.58.18:844][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:844][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_217
+[2021.09.20-06.58.18:845][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:845][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_218
+[2021.09.20-06.58.18:845][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:845][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_231
+[2021.09.20-06.58.18:845][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:845][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_232
+[2021.09.20-06.58.18:846][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:846][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_233
+[2021.09.20-06.58.18:846][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:846][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_234
+[2021.09.20-06.58.18:846][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:846][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_243
+[2021.09.20-06.58.18:847][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:847][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_244
+[2021.09.20-06.58.18:847][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:847][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_245
+[2021.09.20-06.58.18:847][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:847][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_246
+[2021.09.20-06.58.18:848][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:848][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_247
+[2021.09.20-06.58.18:848][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:848][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_256
+[2021.09.20-06.58.18:848][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:848][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_257
+[2021.09.20-06.58.18:849][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:849][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_26
+[2021.09.20-06.58.18:849][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:849][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_266
+[2021.09.20-06.58.18:849][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:850][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_267
+[2021.09.20-06.58.18:850][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:850][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_268
+[2021.09.20-06.58.18:850][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:850][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_269
+[2021.09.20-06.58.18:851][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:851][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_282
+[2021.09.20-06.58.18:851][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:851][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_283
+[2021.09.20-06.58.18:851][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:852][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_284
+[2021.09.20-06.58.18:852][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:852][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_31
+[2021.09.20-06.58.18:853][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:853][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_4
+[2021.09.20-06.58.18:853][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:853][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_45
+[2021.09.20-06.58.18:853][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:853][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_47
+[2021.09.20-06.58.18:854][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:854][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_48
+[2021.09.20-06.58.18:854][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:854][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_49
+[2021.09.20-06.58.18:854][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:854][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_50
+[2021.09.20-06.58.18:855][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:855][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_51
+[2021.09.20-06.58.18:855][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:855][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_52
+[2021.09.20-06.58.18:855][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:855][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_53
+[2021.09.20-06.58.18:856][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:856][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_54
+[2021.09.20-06.58.18:856][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:856][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_55
+[2021.09.20-06.58.18:856][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:856][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_56
+[2021.09.20-06.58.18:857][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:857][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_57
+[2021.09.20-06.58.18:857][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:857][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_6
+[2021.09.20-06.58.18:857][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:857][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_60
+[2021.09.20-06.58.18:858][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:858][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_61
+[2021.09.20-06.58.18:858][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:858][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_62
+[2021.09.20-06.58.18:858][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:858][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_63
+[2021.09.20-06.58.18:859][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:859][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_64
+[2021.09.20-06.58.18:859][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:859][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_65
+[2021.09.20-06.58.18:859][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:859][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_66
+[2021.09.20-06.58.18:860][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:860][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_67
+[2021.09.20-06.58.18:860][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:860][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_68
+[2021.09.20-06.58.18:860][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:860][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_69
+[2021.09.20-06.58.18:861][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:861][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_7
+[2021.09.20-06.58.18:861][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:861][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_70
+[2021.09.20-06.58.18:862][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:862][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_71
+[2021.09.20-06.58.18:862][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:862][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_72
+[2021.09.20-06.58.18:862][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:862][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_73
+[2021.09.20-06.58.18:863][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:863][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_74
+[2021.09.20-06.58.18:863][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:863][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_75
+[2021.09.20-06.58.18:863][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:863][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_76
+[2021.09.20-06.58.18:864][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:864][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_77
+[2021.09.20-06.58.18:864][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:864][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_78
+[2021.09.20-06.58.18:864][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:864][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_79
+[2021.09.20-06.58.18:865][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:865][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_8
+[2021.09.20-06.58.18:865][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:865][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_80
+[2021.09.20-06.58.18:865][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:865][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_81
+[2021.09.20-06.58.18:866][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:866][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_82
+[2021.09.20-06.58.18:866][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:866][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_83
+[2021.09.20-06.58.18:866][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:866][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_84
+[2021.09.20-06.58.18:867][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:867][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_85
+[2021.09.20-06.58.18:867][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:867][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_86
+[2021.09.20-06.58.18:867][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:867][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_87
+[2021.09.20-06.58.18:868][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:868][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_88
+[2021.09.20-06.58.18:868][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:868][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_89
+[2021.09.20-06.58.18:868][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:868][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_9
+[2021.09.20-06.58.18:869][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:869][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_90
+[2021.09.20-06.58.18:869][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:869][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_91
+[2021.09.20-06.58.18:869][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:869][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_92
+[2021.09.20-06.58.18:870][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:870][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_93
+[2021.09.20-06.58.18:870][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:870][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_94
+[2021.09.20-06.58.18:870][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:870][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_96
+[2021.09.20-06.58.18:871][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:871][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_97
+[2021.09.20-06.58.18:871][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:871][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_98
+[2021.09.20-06.58.18:871][ 33]LogLinker: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Maps\FlyingExampleMap.umap: 未能加载“{FileName}”：无法找到文件。
+[2021.09.20-06.58.18:871][ 33]LoadErrors: 加载失败 /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer 引用者 TemplateCube_Rounded_99
+[2021.09.20-06.58.18:900][ 33]LogObjectTools: Deleting 1 worlds: /Game/Maps/FlyingExampleMap.FlyingExampleMap
+[2021.09.20-06.58.18:900][ 33]LogObjectTools: Currently 9 active worlds: /Game/Maps/StartMap.StartMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_6, /Engine/Transient.World_7, /Engine/Transient.World_8, /Engine/Transient.World_9, /Engine/Transient.World_12
+[2021.09.20-06.58.18:960][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   5.23ms
+[2021.09.20-06.58.19:869][ 33]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.20-06.58.19:914][ 33]LogWorld: UWorld::CleanupWorld for FlyingExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-06.58.19:915][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-06.58.20:063][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.09.20-06.58.20:098][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.09.20-06.58.20:137][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.20-06.58.20:167][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.20-06.58.20:171][ 33]LoadErrors: Warning: 创建导出：资产“Camera”的外部容器加载失败：FlyingPawn_C /Game/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingPawn_297
+[2021.09.20-06.58.20:171][ 33]LoadErrors: Warning: 创建导出：资产“SpringArm”的外部容器加载失败：FlyingPawn_C /Game/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingPawn_297
+[2021.09.20-06.58.20:171][ 33]LoadErrors: Warning: 创建导出：资产“Plane mesh”的外部容器加载失败：FlyingPawn_C /Game/Maps/FlyingExampleMap.FlyingExampleMap:PersistentLevel.FlyingPawn_297
+[2021.09.20-06.58.39:842][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.20-06.58.39:880][908]LogUObjectHash: Compacting FUObjectHashTables data took   4.43ms
+[2021.09.20-06.58.39:892][908]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMapE12C66D743CCF3B67D6D43A234378CD1.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap'
+[2021.09.20-06.58.39:898][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.09.20-06.58.39:914][908]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMap_BuiltDataE78D7F1443D7E6AAC2B70BA6FB63A450.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset'
+[2021.09.20-06.58.39:931][908]AssetCheck: New page: 资产保存：多个资产
+[2021.09.20-06.58.39:931][908]LogContentValidation: Display: 正在验证World /Game/Maps/StartMap.StartMap
+[2021.09.20-06.58.39:931][908]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.09.20-07.02.44:386][685]BlueprintLog: New page: 编译FlyingPawn
+[2021.09.20-07.02.44:397][685]LogBlueprint: Warning: [AssetLog] F:\Unreal Projects\SoulConcert\SoulConcert\Content\Blueprints\FlyingPawn.uasset: [Compiler] 输入轴事件（Input Axis Event）为  输入轴Thrust  引用了未知轴 'Thrust’
+[2021.09.20-07.02.44:451][685]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.20-07.02.44:628][685]LogSlate: Took 0.001913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.20-07.03.10:827][724]BlueprintLog: New page: 编译FlyingPawn
+[2021.09.20-07.03.10:892][724]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2021.09.20-07.03.13:913][925]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/FlyingPawn" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset" SILENT=true
+[2021.09.20-07.03.13:951][925]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/FlyingPawn6A14B9CC4E286A59BE909CB3D0550B48.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Blueprints/FlyingPawn.uasset'
+[2021.09.20-07.03.13:970][925]AssetCheck: New page: 资产保存：FlyingPawn
+[2021.09.20-07.03.13:970][925]LogContentValidation: Display: 正在验证Blueprint /Game/Blueprints/FlyingPawn.FlyingPawn
+[2021.09.20-07.03.15:218][ 14]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.20-07.03.15:218][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.20-07.03.33:170][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.20-07.03.33:234][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2021.09.20-07.03.33:243][769]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMapDCE00FFD48C37F3BCDD96AB348854B9D.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap.umap'
+[2021.09.20-07.03.33:250][769]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/StartMap_BuiltData" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset" SILENT=true
+[2021.09.20-07.03.33:267][769]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/StartMap_BuiltData5C5F62F8408C2CF524C1B1B96BBDF27D.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Maps/StartMap_BuiltData.uasset'
+[2021.09.20-07.03.33:285][769]AssetCheck: New page: 资产保存：多个资产
+[2021.09.20-07.03.33:285][769]LogContentValidation: Display: 正在验证World /Game/Maps/StartMap.StartMap
+[2021.09.20-07.03.33:285][769]LogContentValidation: Display: 正在验证MapBuildDataRegistry /Game/Maps/StartMap_BuiltData.StartMap_BuiltData
+[2021.09.20-07.04.01:567][631]LogContentBrowser: Attempting asset rename: Flying -> Soul
+[2021.09.20-07.04.01:649][631]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Soul/Meshes/GrayMaterial" FILE="F:/Unreal Projects/SoulConcert/SoulConcert/Content/Soul/Meshes/GrayMaterial.uasset" SILENT=true
+[2021.09.20-07.04.01:650][631]LogSavePackage: Moving 'F:/Unreal Projects/SoulConcert/SoulConcert/Saved/GrayMaterialAC68346F4ED6524072038090A2C20F2D.tmp' to 'F:/Unreal Projects/SoulConcert/SoulConcert/Content/Soul/Meshes/GrayMaterial.uasset'
+[2021.09.20-07.04.01:716][631]LogUObjectGlobals: Warning: 寻找对象“Object /Game/Flying/Meshes/GrayMaterial.GrayMaterial”失败
+[2021.09.20-07.04.01:796][631]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2021.09.20-07.04.01:827][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2021.09.20-07.04.01:845][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.09.20-07.04.01:885][631]AssetCheck: New page: 资产保存：GrayMaterial
+[2021.09.20-07.04.01:885][631]LogContentValidation: Display: 正在验证ObjectRedirector /Game/Soul/Meshes/GrayMaterial.GrayMaterial
+[2021.09.20-07.04.26:199][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2021.09.20-07.04.27:225][894]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.20-07.04.27:274][894]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.09.20-07.04.29:080][894]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.806 s
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: === Handled ensure: ===
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: 
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: Ensure condition failed: Found [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 201]
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: Cannot remove redirection from /Game/Soul/Meshes/GrayMaterial.GrayMaterial, it was not registered
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: Stack: 
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd0496988 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd0068a71 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd4f14b80 UE4Editor-AssetRegistry.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd96f0cb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd96ea8f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd0d3f98 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd39a04e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd3a70b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd519859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd51b071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd4ff46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5077f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5060337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5053632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde1969197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde1964310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe16717536 USER32.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe16717052 USER32.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197f7b9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5082233 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd501d485 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd43c07e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdbd96e2c8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdb3796bb8 UE4Editor-AssetTools.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffd9e3c70e9 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffd9e3c72ee UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffd9e3b7a17 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdb4000083 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdb3ff9532 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdb40780e2 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdb3ffcfa7 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd519859e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd51b071e UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd4ff46be UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5077f14 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5060337 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffdd5053632 UE4Editor-Slate.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197bcb5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde1969197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde1964310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe16717536 USER32.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe16717052 USER32.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffde197f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ff7c4a78848 UE4Editor.exe!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ff7c4a9117c UE4Editor.exe!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ff7c4a9125a UE4Editor.exe!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ff7c4aa52bd UE4Editor.exe!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ff7c4aa7fea UE4Editor.exe!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe18817974 KERNEL32.DLL!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: [Callstack] 0x00007ffe1938a0b1 ntdll.dll!UnknownFunction []
+[2021.09.20-07.04.29:081][894]LogOutputDevice: Error: 

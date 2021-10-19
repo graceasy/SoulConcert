@@ -14982,3 +14982,147 @@ MasterPlanet_C.ReceiveBeginPlay
 [2021.10.19-06.52.33:350][291]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.10.19-06.52.41:982][291]LogAudio: Display: Audio Device Manager Shutdown
 [2021.10.19-06.52.57:946][291]LogExit: Preparing to exit.
+[2021.10.19-06.53.09:158][291]LogUObjectHash: Compacting FUObjectHashTables data took  68.89ms
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996F5D00] Windows
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996F5C00] Default__DeviceProfile
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2700] WindowsNoEditor
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996F4D00] WindowsServer
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3500] WindowsClient
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996F6A00] IOS
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0B00] iPadAir
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [00000295996F6D00] iPadAir2
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [000002959967B000] IPadPro
+[2021.10.19-06.53.24:376][291]LogDeviceProfile: Device profile begin destroy: [000002959967B100] iPadAir3
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996F5500] iPadAir4
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967A800] iPadMini2
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996F7200] iPadMini3
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679600] iPadMini4
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996F5200] iPadMini5
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696900] iPhone6
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696A00] iPodTouch6
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967B600] iPhone7
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967B700] iPodTouch7
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696700] iPhone5S
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678100] iPhone6Plus
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599695400] iPhone6S
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678700] iPhone6SPlus
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599694200] iPhone7Plus
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967A600] iPhoneSE
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599697000] iPhone8
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967BF00] iPhone8Plus
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599695C00] iPhoneX
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967A200] iPhoneXS
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599694300] iPhoneXSMax
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967BD00] iPhoneXR
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696800] iPhone11
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679D00] iPhone11Pro
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599697500] iPhone11ProMax
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967AC00] iPhoneSE2
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599695300] iPhone12Mini
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678B00] iPhone12
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696D00] iPhone12Pro
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967B200] iPhone12ProMax
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696500] iPadPro105
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967BC00] iPadPro129
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1700] iPadPro97
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599697400] iPadPro2_129
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1F00] iPad5
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696100] iPad6
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0A00] iPad7
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696600] iPad8
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0100] iPadPro11
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599695D00] iPadPro2_11
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2000] iPadPro3_129
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599696B00] iPadPro4_129
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2900] AppleTV
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679700] AppleTV4K
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3E00] TVOS
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679900] Mac
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3100] MacClient
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679A00] MacNoEditor
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0200] MacServer
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679E00] Linux
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0800] LinuxAArch64
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678C00] LinuxNoEditor
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1D00] LinuxAArch64NoEditor
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678800] LinuxClient
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3300] LinuxAArch64Client
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678F00] LinuxServer
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0F00] LinuxAArch64Server
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599678500] Android
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3B00] Android_Low
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [000002959967B900] Android_Mid
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3A00] Android_High
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [0000029599679200] Android_Default
+[2021.10.19-06.53.24:377][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1A00] Android_Adreno4xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599679000] Android_Adreno5xx_Low
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0500] Android_Adreno5xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [000002959967BE00] Android_Adreno6xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2100] Android_Adreno6xx_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599679100] Android_Mali_T6xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2300] Android_Mali_T7xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [000002959967BB00] Android_Mali_T8xx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2B00] Android_Mali_G71
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [000002959967A300] Android_Mali_G72
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1800] Android_Mali_G72_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [000002959967A400] Android_Mali_G76
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C3200] Android_Mali_G76_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599679300] Android_Mali_G77
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1900] Android_Mali_G77_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599679500] Android_Vulkan_SM5
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2F00] Android_PowerVR_G6xxx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599678600] Android_PowerVR_GT7xxx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C0600] Android_PowerVR_GE8xxx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599679400] Android_PowerVR_GM9xxx
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C1500] Android_PowerVR_GM9xxx_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [000002959967AF00] Android_TegraK1
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [00000295996C2800] Android_Unknown_Vulkan
+[2021.10.19-06.53.24:378][291]LogDeviceProfile: Device profile begin destroy: [0000029599678A00] Lumin
+[2021.10.19-06.53.24:388][291]LogDeviceProfile: Device profile begin destroy: [00000295996F7000] Lumin_Desktop
+[2021.10.19-06.53.24:388][291]LogDeviceProfile: Device profile begin destroy: [0000029599697A00] HoloLens
+[2021.10.19-06.53.31:161][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:165][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:165][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:165][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:322][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:322][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:322][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:322][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:324][291]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:325][291]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:326][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:327][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:328][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2021.10.19-06.53.31:329][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.38:455][291]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.10.19-06.53.45:661][291]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.10.19-06.53.46:144][291]LogExit: Editor shut down
+[2021.10.19-06.53.48:337][291]LogExit: Transaction tracking system shut down

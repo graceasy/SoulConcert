@@ -2,3 +2,7 @@
 Content/Assets/Dog/Dog.uasset
 Saved/Autosaves/Game/Assets/Dog/Dog_Auto1.uasset
 Saved/Autosaves/Game/Assets/Dog/DogAnimation_Auto3.uasset
+Intermediate/Build/Win64/SoulConcert/Shipping/Core/SharedPCH.Core.h.pch
+Saved/Cooked/WindowsNoEditor/SoulConcert/Content/Assets/Cat/CatFur.uexp
+Saved/Cooked/WindowsNoEditor/SoulConcert/Content/Assets/Dog/Dog.uexp
+Saved/StagedBuilds/WindowsNoEditor/SoulConcert/Content/Paks/SoulConcert-WindowsNoEditor.pak

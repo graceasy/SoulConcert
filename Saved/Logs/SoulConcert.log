@@ -9168,3 +9168,227 @@ LogConfig: Setting CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]]
 [2021.11.09-13.00.40:295][143]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
 [2021.11.09-13.00.42:186][143]LogExit: Preparing to exit.
 [2021.11.09-13.01.33:245][143]LogUObjectHash: Compacting FUObjectHashTables data took 131.90ms
+[2021.11.09-13.02.09:522][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E100] Windows
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E200] Default__DeviceProfile
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6100] WindowsNoEditor
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D600] WindowsServer
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6B00] WindowsClient
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E000] IOS
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6400] iPadAir
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E300] iPadAir2
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72300] IPadPro
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72400] iPadAir3
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB4E00] iPadAir4
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72700] iPadMini2
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6A00] iPadMini3
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71200] iPadMini4
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6600] iPadMini5
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81B00] iPhone6
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81C00] iPodTouch6
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72200] iPhone7
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72000] iPodTouch7
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83300] iPhone5S
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73000] iPhone6Plus
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81400] iPhone6S
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73600] iPhone6SPlus
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C80200] iPhone7Plus
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72F00] iPhoneSE
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C82200] iPhone8
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71800] iPhone8Plus
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83E00] iPhoneX
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73800] iPhoneXS
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C80300] iPhoneXSMax
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71900] iPhoneXR
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83200] iPhone11
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70D00] iPhone11Pro
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C82700] iPhone11ProMax
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71400] iPhoneSE2
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81300] iPhone12Mini
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70400] iPhone12
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81F00] iPhone12Pro
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71000] iPhone12ProMax
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83500] iPadPro105
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71A00] iPadPro129
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1C400] iPadPro97
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73B00] iPadPro2_129
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E900] iPad5
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72B00] iPad6
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1C600] iPad7
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72900] iPad8
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1EB00] iPadPro11
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70500] iPadPro2_11
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E500] iPadPro3_129
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70800] iPadPro4_129
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1C700] AppleTV
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70900] AppleTV4K
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1CB00] TVOS
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71F00] Mac
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1F400] MacClient
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72A00] MacNoEditor
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1C800] MacServer
+[2021.11.09-13.02.09:549][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72100] Linux
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1CC00] LinuxAArch64
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73F00] LinuxNoEditor
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D100] LinuxAArch64NoEditor
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71C00] LinuxClient
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1CD00] LinuxAArch64Client
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73D00] LinuxServer
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D300] LinuxAArch64Server
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73400] Android
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1C500] Android_Low
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73200] Android_Mid
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D200] Android_High
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70E00] Android_Default
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E700] Android_Adreno4xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C71B00] Android_Adreno5xx_Low
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1EE00] Android_Adreno5xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72600] Android_Adreno6xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D800] Android_Adreno6xx_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C73300] Android_Mali_T6xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1E600] Android_Mali_T7xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C70C00] Android_Mali_T8xx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1EC00] Android_Mali_G71
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C72E00] Android_Mali_G72
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FD1D400] Android_Mali_G72_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB4D00] Android_Mali_G76
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83F00] Android_Mali_G76_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB4C00] Android_Mali_G77
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C82100] Android_Mali_G77_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB5E00] Android_Vulkan_SM5
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C82D00] Android_PowerVR_G6xxx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB4B00] Android_PowerVR_GT7xxx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C83600] Android_PowerVR_GE8xxx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB6E00] Android_PowerVR_GM9xxx
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81200] Android_PowerVR_GM9xxx_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB5700] Android_TegraK1
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81800] Android_Unknown_Vulkan
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB7600] Lumin
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E70C81900] Lumin_Desktop
+[2021.11.09-13.02.09:550][143]LogDeviceProfile: Device profile begin destroy: [0000018E6FCB4400] HoloLens
+[2021.11.09-13.02.13:517][143]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:564][143]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:569][143]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:587][143]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:607][143]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:611][143]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:626][143]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:630][143]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:634][143]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.13:704][143]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.23:094][143]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.11.09-13.02.27:395][143]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.11.09-13.02.28:583][143]LogExit: Editor shut down
+[2021.11.09-13.02.29:145][143]LogExit: Transaction tracking system shut down
+[2021.11.09-13.03.28:515][143]LogExit: Object subsystem successfully closed.
+[2021.11.09-13.03.30:500][143]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.11.09-13.03.34:571][143]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (860)
+[2021.11.09-13.03.34:593][143]LogModuleManager: Shutting down and abandoning module SequencerWidgets (858)
+[2021.11.09-13.03.34:593][143]LogModuleManager: Shutting down and abandoning module TextureEditor (856)
+[2021.11.09-13.03.34:610][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (854)
+[2021.11.09-13.03.34:610][143]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (852)
+[2021.11.09-13.03.34:611][143]LogModuleManager: Shutting down and abandoning module Voice (850)
+[2021.11.09-13.03.34:611][143]LogModuleManager: Shutting down and abandoning module BlueprintGraph (848)
+[2021.11.09-13.03.34:670][143]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (846)
+[2021.11.09-13.03.34:682][143]LogModuleManager: Shutting down and abandoning module SceneOutliner (844)
+[2021.11.09-13.03.34:682][143]LogModuleManager: Shutting down and abandoning module AddContentDialog (842)
+[2021.11.09-13.03.35:378][143]LogModuleManager: Shutting down and abandoning module WidgetCarousel (841)
+[2021.11.09-13.03.35:378][143]LogModuleManager: Shutting down and abandoning module EditorWidgets (838)
+[2021.11.09-13.03.35:378][143]LogModuleManager: Shutting down and abandoning module StatsViewer (836)
+[2021.11.09-13.03.35:380][143]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (834)
+[2021.11.09-13.03.35:382][143]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (832)
+[2021.11.09-13.03.35:391][143]LogModuleManager: Shutting down and abandoning module AutomationWorker (830)
+[2021.11.09-13.03.35:392][143]LogModuleManager: Shutting down and abandoning module SteamVREditor (828)
+[2021.11.09-13.03.35:392][143]LogModuleManager: Shutting down and abandoning module OculusMR (826)
+[2021.11.09-13.03.35:392][143]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (824)
+[2021.11.09-13.03.35:392][143]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (822)
+[2021.11.09-13.03.35:392][143]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (820)
+[2021.11.09-13.03.35:393][143]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (818)
+[2021.11.09-13.03.35:409][143]LogModuleManager: Shutting down and abandoning module WebMMedia (816)
+[2021.11.09-13.03.35:410][143]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (814)
+[2021.11.09-13.03.35:424][143]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (812)
+[2021.11.09-13.03.35:458][143]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (810)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (808)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (806)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (804)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (802)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (800)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (798)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module GooglePADEditor (796)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (794)
+[2021.11.09-13.03.35:459][143]LogModuleManager: Shutting down and abandoning module SequenceRecorder (793)
+[2021.11.09-13.03.35:527][143]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (790)
+[2021.11.09-13.03.35:528][143]LogModuleManager: Shutting down and abandoning module PlanarCut (788)
+[2021.11.09-13.03.35:529][143]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (786)
+[2021.11.09-13.03.35:530][143]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (784)
+[2021.11.09-13.03.35:568][143]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (782)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (780)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (778)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (776)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module CharacterAI (774)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module TextureAlignMode (772)
+[2021.11.09-13.03.35:578][143]LogModuleManager: Shutting down and abandoning module BspMode (770)
+[2021.11.09-13.03.35:579][143]LogModuleManager: Shutting down and abandoning module GeometryMode (768)
+[2021.11.09-13.03.35:579][143]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (766)
+[2021.11.09-13.03.35:669][143]LogModuleManager: Shutting down and abandoning module SmartSnapping (764)
+[2021.11.09-13.03.35:669][143]LogModuleManager: Shutting down and abandoning module SessionServices (762)
+[2021.11.09-13.03.35:670][143]LogModuleManager: Shutting down and abandoning module MeshPaint (760)
+[2021.11.09-13.03.35:678][143]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (758)
+[2021.11.09-13.03.35:678][143]LogModuleManager: Shutting down and abandoning module FoliageEdit (756)
+[2021.11.09-13.03.35:679][143]LogModuleManager: Shutting down and abandoning module LandscapeEditor (754)
+[2021.11.09-13.03.35:713][143]LogModuleManager: Shutting down and abandoning module MeshPaintMode (752)
+[2021.11.09-13.03.35:790][143]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (750)
+[2021.11.09-13.03.35:790][143]LogModuleManager: Shutting down and abandoning module ActorPickerMode (748)
+[2021.11.09-13.03.35:790][143]LogModuleManager: Shutting down and abandoning module PlacementMode (746)
+[2021.11.09-13.03.35:884][143]LogModuleManager: Shutting down and abandoning module ViewportSnapping (744)
+[2021.11.09-13.03.35:884][143]LogModuleManager: Shutting down and abandoning module ViewportInteraction (742)
+[2021.11.09-13.03.35:885][143]LogModuleManager: Shutting down and abandoning module ClothPainter (740)
+[2021.11.09-13.03.35:899][143]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (739)
+[2021.11.09-13.03.35:901][143]LogModuleManager: Shutting down and abandoning module LogVisualizer (736)
+[2021.11.09-13.03.35:919][143]LogModuleManager: Shutting down and abandoning module IntroTutorials (734)
+[2021.11.09-13.03.37:404][143]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (733)
+[2021.11.09-13.03.37:406][143]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (730)
+[2021.11.09-13.03.37:406][143]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (728)
+[2021.11.09-13.03.37:416][143]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (726)
+[2021.11.09-13.03.37:416][143]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (725)
+[2021.11.09-13.03.38:089][143]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (722)
+[2021.11.09-13.03.38:089][143]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (720)
+[2021.11.09-13.03.38:089][143]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (718)
+[2021.11.09-13.03.38:089][143]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (716)
+[2021.11.09-13.03.38:089][143]LogModuleManager: Shutting down and abandoning module TraceInsights (714)
+[2021.11.09-13.03.38:095][143]MemoryProfiler: Shutdown
+[2021.11.09-13.03.38:109][143]NetworkingProfiler: Shutdown
+[2021.11.09-13.03.38:109][143]LoadingProfiler: Shutdown
+[2021.11.09-13.03.38:118][143]TimingProfiler: Shutdown
+[2021.11.09-13.03.38:147][143]LogModuleManager: Shutting down and abandoning module TraceServices (713)
+[2021.11.09-13.03.38:159][143]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (710)
+[2021.11.09-13.03.38:159][143]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (708)
+[2021.11.09-13.03.38:159][143]LogModuleManager: Shutting down and abandoning module InputBindingEditor (706)
+[2021.11.09-13.03.38:163][143]LogModuleManager: Shutting down and abandoning module MergeActors (704)
+[2021.11.09-13.03.38:168][143]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (702)
+[2021.11.09-13.03.38:175][143]LogModuleManager: Shutting down and abandoning module LocalizationService (701)
+[2021.11.09-13.03.38:175][143]LogModuleManager: Shutting down and abandoning module HardwareTargeting (698)
+[2021.11.09-13.03.38:175][143]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (696)
+[2021.11.09-13.03.38:183][143]LogModuleManager: Shutting down and abandoning module UndoHistory (694)
+[2021.11.09-13.03.38:184][143]LogModuleManager: Shutting down and abandoning module XmlParser (692)
+[2021.11.09-13.03.38:184][143]LogModuleManager: Shutting down and abandoning module Blutility (690)
+[2021.11.09-13.03.38:184][143]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (688)
+[2021.11.09-13.03.38:185][143]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (687)
+[2021.11.09-13.03.38:289][143]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (684)
+[2021.11.09-13.03.38:289][143]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (683)
+[2021.11.09-13.03.38:290][143]LogModuleManager: Shutting down and abandoning module SettingsEditor (680)
+[2021.11.09-13.03.38:290][143]LogModuleManager: Shutting down and abandoning module ProjectLauncher (678)
+[2021.11.09-13.03.38:291][143]LogModuleManager: Shutting down and abandoning module SessionFrontend (676)
+[2021.11.09-13.03.38:291][143]LogModuleManager: Shutting down and abandoning module ProfilerClient (674)
+[2021.11.09-13.03.38:292][143]LogModuleManager: Shutting down and abandoning module DeviceManager (672)
+[2021.11.09-13.03.38:301][143]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (671)
+[2021.11.09-13.03.38:346][143]LogModuleManager: Shutting down and abandoning module AutomationController (668)
+[2021.11.09-13.03.38:347][143]LogModuleManager: Shutting down and abandoning module AutomationWindow (666)
+[2021.11.09-13.03.38:353][143]LogModuleManager: Shutting down and abandoning module Layers (664)
+[2021.11.09-13.03.38:363][143]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (662)
+[2021.11.09-13.03.38:363][143]LogModuleManager: Shutting down and abandoning module DetailCustomizations (660)
+[2021.11.09-13.03.38:364][143]LogModuleManager: Shutting down and abandoning module PackagesDialog (658)
+[2021.11.09-13.03.38:437][143]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (656)
+[2021.11.09-13.03.38:440][143]LogModuleManager: Shutting down and abandoning module Persona (654)
+[2021.11.09-13.03.38:443][143]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (653)
+[2021.11.09-13.03.38:443][143]LogModuleManager: Shutting down and abandoning module AnimGraph (651)
+[2021.11.09-13.03.38:453][143]LogModuleManager: Shutting down and abandoning module Kismet (648)

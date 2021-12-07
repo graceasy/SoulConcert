@@ -1,4 +1,4 @@
-SoulConcert/Binaries/Win64/SoulConcert-Win64-Shipping.exe	2021-10-30T16:52:42.483Z
+SoulConcert/Binaries/Win64/SoulConcert-Win64-Shipping.exe	2021-12-07T06:43:25.588Z
 SoulConcert/Binaries/Win64/turbojpeg.dll	2021-02-20T02:38:19.473Z
 Engine/Extras/Redist/en-us/UE4PrereqSetup_x64.exe	2021-02-20T02:30:03.498Z
 Engine/Binaries/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Win64/OVRPlugin.dll	2021-02-20T02:25:06.496Z
@@ -18,4 +18,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2021-02-20T0
 Engine/Binaries/ThirdParty/NVIDIA/NVaftermath/Win64/GFSDK_Aftermath_Lib.x64.dll	2021-02-20T02:25:04.925Z
 Engine/Binaries/ThirdParty/OpenVR/OpenVRv1_5_17/Win64/openvr_api.dll	2021-02-20T02:25:06.540Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2021-02-20T02:25:47.426Z
-SoulConcert.exe	2021-10-30T17:37:26.774Z
+SoulConcert.exe	2021-12-07T09:05:40.725Z

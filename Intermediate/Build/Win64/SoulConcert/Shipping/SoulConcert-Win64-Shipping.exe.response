@@ -96,6 +96,9 @@
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4\Shipping\NiagaraShader\Module.NiagaraShader.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4\Shipping\NiagaraShader\Module.NiagaraShader.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\FX\Niagara\Intermediate\Build\Win64\UE4\Shipping\NiagaraVertexFactories\Module.NiagaraVertexFactories.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Volumetrics\Intermediate\Build\Win64\UE4\Shipping\Volumetrics\Volumetrics.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Landmass\Intermediate\Build\Win64\UE4\Shipping\Landmass\Module.Landmass.cpp.obj"
+"C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\Experimental\Landmass\Intermediate\Build\Win64\UE4\Shipping\Landmass\Module.Landmass.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\2D\Paper2D\Intermediate\Build\Win64\UE4\Shipping\Paper2D\Module.Paper2D.gen.cpp.obj"
 "C:\Program Files\Epic Games\UE_4.26\Engine\Plugins\AI\AISupport\Intermediate\Build\Win64\UE4\Shipping\AISupportModule\AISupportModule.cpp.obj"
@@ -968,6 +971,8 @@
 /INCLUDE:IMPLEMENT_MODULE_NiagaraAnimNotifies
 /INCLUDE:IMPLEMENT_MODULE_NiagaraShader
 /INCLUDE:IMPLEMENT_MODULE_NiagaraVertexFactories
+/INCLUDE:IMPLEMENT_MODULE_Volumetrics
+/INCLUDE:IMPLEMENT_MODULE_Landmass
 /INCLUDE:IMPLEMENT_MODULE_Paper2D
 /INCLUDE:IMPLEMENT_MODULE_AISupportModule
 /INCLUDE:IMPLEMENT_MODULE_LightPropagationVolumeRuntime
